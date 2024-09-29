@@ -3,7 +3,7 @@
     public class UnitedKingdom
     {
         public int Identifier { get; set; }       
-        public string Label {get; set;}
+        public required string Label {get; set;}
         
     }
 
